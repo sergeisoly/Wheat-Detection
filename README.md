@@ -32,6 +32,8 @@ This result give 24 % place on leaderbord with a very simple model (FasterRCNN p
 
 But in june was introduced YOLOv5 (there are some dispute about naming) https://github.com/ultralytics/yolov5 \
 The implementation based on PyTorch but not on Darknet as other versions of YOLO.\
-My first try gives 0.7375 on single model.
+My first try gives 0.7375 on single model.\
+You can check it https://www.kaggle.com/sergeisoly
+
 
 Train Colab Notebook https://colab.research.google.com/drive/1fxHorYFsc68R_jCMs_YmH6Hb3WdFlKsg?usp=sharing
