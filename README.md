@@ -13,7 +13,7 @@ Very much augmentation + FasterRCNN (Pytorch)
 
 Train Colab Notebook https://colab.research.google.com/drive/1Wh1YwRZaTukzNw4Y8yTji_yRLawBH98l?usp=sharing
 
-Also a little improvement gives pseudo labeling. The point is to use trained model to label a little test set (10 images in our case)\
+Also a little improvement gives pseudo labeling. The point is to use trained model to label test set \
 and train again for a few epochs.
 
 Pseudo labeling Colab Notebook https://colab.research.google.com/drive/1bl3ob0GpNfdHf_6dAiuUnAukpBheE-kc?usp=sharing
